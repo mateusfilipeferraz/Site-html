@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": true,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "liveServer.settings.multiRootWorkspaceName": "curso-html5-pacote01"
+}

@@ -1,0 +1,14 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open specs.html",
+            "file": "d:\\backup\\FACULDADE\\Programação\\linguagem html 5 css java scripit\\html\\curso-html5-pacote01\\projeto-glass-html5\\specs.html"
+        }
+    ]
+}
